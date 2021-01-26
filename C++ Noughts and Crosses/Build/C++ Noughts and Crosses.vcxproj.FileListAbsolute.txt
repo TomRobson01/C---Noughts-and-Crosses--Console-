@@ -1,0 +1,2 @@
+C:\Users\Tom\source\repos\C++ Noughts and Crosses\Debug\C++ Noughts and Crosses.exe
+C:\Users\Tom\source\repos\C++ Noughts and Crosses\Debug\C++ Noughts and Crosses.pdb
